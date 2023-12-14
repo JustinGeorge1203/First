@@ -1,2 +1,2 @@
-# First
-Entri Project 
+# Python Project
+Banking System
